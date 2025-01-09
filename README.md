@@ -1,5 +1,4 @@
-# CS326
-
+# Note: This a project that I made with other people, using hungumass as the account, all of my contributions are over there, this is just for display
 ## Getting Started
 
 To get started with the project, follow these instructions:
